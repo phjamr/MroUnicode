@@ -1,6 +1,8 @@
 # MroUnicode
 
-"Mro Unicode" is a font for the Mro script used by the Mro (sometimes "Mru") people of the Chittagong Hill Tracts in southeastern Bangladesh.
+"Mro Unicode" is an open source font for the Mro script used by the Mro (sometimes "Mru") people of the Chittagong Hill Tracts in southeastern Bangladesh.
+
+The documentation page can be found at http://phjamr.github.io/mro.html.
 
 The Mro script has not yet been added to Unicode, but a proposal for encoding has been accepted. This font accordingly uses this encoding, described in [Proposal N3589][prop1] and clarified in [Proposal 4010][prop2]. (Apparently the two punctuation marks given were not initially accepted and so required further defense.) The Unicode ["Pipeline"][uni1] shows this proposal is at Stage 7 -- the penultimate stage -- and so probably will not be modified. If it is modified this font will be altered accordingly.
 
